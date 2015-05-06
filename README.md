@@ -1,5 +1,6 @@
-![autoscrollviewpager]<img src="https://github.com/benniaobuguai/android-auto-scroll-viewpager/screenshot/1.png" width="270" alt="Screenshot"/>
-
+<p>
+<img src="https://github.com/benniaobuguai/android-auto-scroll-viewpager/blob/master/screenshot/1.png" width="270" alt="Screenshot"/>
+</p>
 
 ***
 
@@ -50,5 +51,3 @@
 	}
 	
 </code>
-
-## 有问题反馈
