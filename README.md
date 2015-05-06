@@ -1,5 +1,5 @@
 Android Auto Scroll ViewPager (Smooth)
-==============================
+==========================================================================================
 
 <p>
 <img src="https://github.com/benniaobuguai/android-auto-scroll-viewpager/blob/master/screenshot/1.png" width="220" alt="Screenshot"/>
@@ -15,9 +15,10 @@ Android Auto Scroll ViewPager (Smooth)
 5. 手动切换时，轮播会停止，手动切换结束后，继续轮播  
 6. 手动切换效果，不会因轮播造成破坏  
 7. 切换至其它Activity时，可控制停止播放  
-
   
-  
+    
+	
+-------------------------------------------------------------------------------------------------------------------------------
 每次轮播完成后，切换速度会自动调整，代码如下：
 ``` java
 	/**
@@ -61,14 +62,17 @@ Android Auto Scroll ViewPager (Smooth)
 		}
 	}
 ``` 
-
+-------------------------------------------------------------------------------------------------------------------------------
+  
+  
+  
 更多使用技巧, 请关注：  
 [https://github.com/benniaobuguai/android-project-wo2b](https://github.com/benniaobuguai/android-project-wo2b)
 
 
 ## License
 
-    Copyright 2014 trinea.cn
+    Copyright 2015 wo2b.com
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
