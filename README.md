@@ -3,9 +3,6 @@ Android Auto Scroll ViewPager (Smooth)
 
 [![Build Status](http://static.wo2b.com/openopen/build_passing.png?branch=master)](http://www.wo2b.com) [![Website](http://static.wo2b.com/openopen/wo2b_link.png)](http://www.wo2b.com)
 
-欢迎来到笨鸟不乖的GitHub库
-------------------------------------------------------------------------------------------
-
 
 特性
 ------------
@@ -17,10 +14,10 @@ Android Auto Scroll ViewPager (Smooth)
 
 版本
 ------------
-<pre>
+``` java
 android:versionCode="20151108"
 android:versionName="2.0.0"
-</pre>
+```
 
 Android SDK最低支持到2.2
 
