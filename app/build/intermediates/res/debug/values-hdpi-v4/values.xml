@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/F:/000%20wo2b/Android%20Auto%20Scroll%20ViewPager/app/src/main/res/values-hdpi/dimen.xml -->
+    <eat-comment/>
+    <dimen name="dimen_0">0dp</dimen>
+    <dimen name="dimen_1">0.75dp</dimen>
+    <dimen name="dimen_10">7dp</dimen>
+    <dimen name="dimen_100">75dp</dimen>
+    <dimen name="dimen_12">9dp</dimen>
+    <dimen name="dimen_13">9.75dp</dimen>
+    <dimen name="dimen_14">10.5dp</dimen>
+    <dimen name="dimen_15">11.25dp</dimen>
+    <dimen name="dimen_16">12dp</dimen>
+    <dimen name="dimen_18">13.5dp</dimen>
+    <dimen name="dimen_1px">1px</dimen>
+    <dimen name="dimen_2">1.5dp</dimen>
+    <dimen name="dimen_20">15dp</dimen>
+    <dimen name="dimen_200">150dp</dimen>
+    <dimen name="dimen_22">16.5dp</dimen>
+    <dimen name="dimen_24">18dp</dimen>
+    <dimen name="dimen_240">180dp</dimen>
+    <dimen name="dimen_25">18.75dp</dimen>
+    <dimen name="dimen_3">2.25dp</dimen>
+    <dimen name="dimen_30">22.5dp</dimen>
+    <dimen name="dimen_32">24dp</dimen>
+    <dimen name="dimen_36">27dp</dimen>
+    <dimen name="dimen_4">3dp</dimen>
+    <dimen name="dimen_40">30dp</dimen>
+    <dimen name="dimen_44">33dp</dimen>
+    <dimen name="dimen_48">36dp</dimen>
+    <dimen name="dimen_5">3.75dp</dimen>
+    <dimen name="dimen_50">37.5dp</dimen>
+    <dimen name="dimen_55">41.25dp</dimen>
+    <dimen name="dimen_6">4.5dp</dimen>
+    <dimen name="dimen_60">45dp</dimen>
+    <dimen name="dimen_65">48.75dp</dimen>
+    <dimen name="dimen_70">52.5dp</dimen>
+    <dimen name="dimen_8">6dp</dimen>
+    <dimen name="dimen_9">6.75dp</dimen>
+    <!-- From: file:/F:/000%20wo2b/Android%20Auto%20Scroll%20ViewPager/app/src/main/res/values-hdpi/dimen_textsize.xml -->
+    <eat-comment/>
+    <dimen name="textsize_10">8sp</dimen>
+    <dimen name="textsize_12">10sp</dimen>
+    <dimen name="textsize_13">10sp</dimen>
+    <dimen name="textsize_14">11sp</dimen>
+    <dimen name="textsize_15">11sp</dimen>
+    <dimen name="textsize_16">12sp</dimen>
+    <dimen name="textsize_17">13sp</dimen>
+    <dimen name="textsize_18">14sp</dimen>
+    <dimen name="textsize_20">16sp</dimen>
+    <dimen name="textsize_22">18sp</dimen>
+    <dimen name="textsize_24">20sp</dimen>
+    <dimen name="textsize_26">22sp</dimen>
+    <dimen name="textsize_28">24sp</dimen>
+    <dimen name="textsize_30">26sp</dimen>
+    <dimen name="textsize_32">28sp</dimen>
+    <dimen name="textsize_34">30sp</dimen>
+    <dimen name="textsize_36">32sp</dimen>
+</resources>

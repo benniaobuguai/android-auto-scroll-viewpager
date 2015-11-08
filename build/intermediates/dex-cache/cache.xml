@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\exploded-aar\Android Auto Scroll ViewPager\opencdk\unspecified\libs\nineoldandroids-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="59f19e43354d32de831379c23ce03bb259a4c2b7">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-c1010f73870ec7c3704131f8cbaf93308263974f.jar" />
+    </item>
+    <item
+        jar="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\classes-b45d57a25c5c5fc869540b331221259e2528597e.jar" />
+    </item>
+    <item
+        jar="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-586ffb7914def565fe3872a492cb30e9b68ad97e.jar" />
+    </item>
+    <item
+        jar="F:\000 wo2b\Android Auto Scroll ViewPager\app\libs\universal-image-loader-1.9.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dd9eeb557650c4ad7394df23f0f5cf27a7cfc697">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-be098f9ab804e3ea2ed26eb70ee81687d3e6f62a.jar" />
+    </item>
+    <item
+        jar="D:\dev\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-33b1bca8014c254f4f07944875836dd878a4e2bd.jar" />
+    </item>
+    <item
+        jar="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\exploded-aar\Android Auto Scroll ViewPager\opencdk\unspecified\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="dece2ffdcd473bfc21245cf4661169b0476d1f15">
+        <dex dex="F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\classes-3a82c1c1224a0352d80ff11987f8362857e48851.jar" />
+    </item>
+
+</items>
