@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">wo2b.COM</string>
+    <string name="app_name">ViewPager</string>
     
     <string name="add_scroll_animation">Add scroll animation</string>
     <string name="remove_scroll_animation">Remove scroll animation</string>
     
     
-    <string name="author">©&#160;wo2b.com</string>
+    <string name="author">©&#160;opencdk.com</string>
 
 </resources>

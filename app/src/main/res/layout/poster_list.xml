@@ -5,7 +5,7 @@
     android:background="#f3f1da"
     android:orientation="vertical" >
 
-    <com.wo2b.samples.autoviewpager.AutoScrollPoster
+    <com.opencdk.samples.autoviewpager.AutoScrollPoster
         android:id="@+id/viewPager"
         android:layout_width="match_parent"
         android:layout_height="150dp" />

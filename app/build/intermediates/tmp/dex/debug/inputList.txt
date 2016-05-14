@@ -1,7 +1,0 @@
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\classes\debug
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-33b1bca8014c254f4f07944875836dd878a4e2bd.jar
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\classes-3a82c1c1224a0352d80ff11987f8362857e48851.jar
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\nineoldandroids-2.4.0-c1010f73870ec7c3704131f8cbaf93308263974f.jar
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.4-be098f9ab804e3ea2ed26eb70ee81687d3e6f62a.jar
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-586ffb7914def565fe3872a492cb30e9b68ad97e.jar
-F:\000 wo2b\Android Auto Scroll ViewPager\app\build\intermediates\pre-dexed\debug\classes-b45d57a25c5c5fc869540b331221259e2528597e.jar
