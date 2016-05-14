@@ -26,7 +26,7 @@ Android SDK最低支持到2.2
 ------------
 <p>
 <img src="http://static.wo2b.com/openapp/autoviewpager/1.png" width="220" alt="Screenshot"/>
-<img src="screenshot/autoviewpager/1.gif" width="220" alt="Screenshot"/>
+<img src="screenshot/1.gif" width="220" alt="Screenshot"/>
 </p>
 
 
