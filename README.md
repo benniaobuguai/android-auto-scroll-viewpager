@@ -11,6 +11,13 @@ Android Auto Scroll ViewPager (Smooth)
 * 提供暂停、继续播放的api，想怎么控制由你决定
 * 基类支持泛型，使用容易，可根据业务对象自行实现
 
+使用
+------------
+``` java
+dependencies {
+    compile 'com.opencdk:auto-scroll-viewpager:1.0.0'
+}
+```
 
 版本
 ------------
