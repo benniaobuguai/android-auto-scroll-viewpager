@@ -1,7 +1,6 @@
 Android Auto Scroll ViewPager (Smooth)
 ==========================================================================================
 
-[![Build Status](http://static.wo2b.com/openopen/build_passing.png?branch=master)](http://www.wo2b.com) [![Website](http://static.wo2b.com/openopen/wo2b_link.png)](http://www.wo2b.com)
 
 
 特性
